@@ -1,0 +1,14 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 99vh;
+    width: 99vw;
+}
+.canvas-wrapper{
+    width: 600px;
+    height: 600px;
+}
+
+
+
